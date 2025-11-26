@@ -225,6 +225,7 @@ defaults:
 
 sass:
   style: compressed
+  custom_css: ["assets/css/custom.scss"]
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
