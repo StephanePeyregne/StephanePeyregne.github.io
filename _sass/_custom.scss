@@ -1,0 +1,4 @@
+/* Remove shadow only on the about-page profile image */
+.profile .z-depth-1 {
+  box-shadow: none !important;
+}
