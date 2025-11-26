@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: "Welcome to the Peyrégne Lab!"
 permalink: /
 subtitle: '<a href="#">Institut Jacques Monod</a>. email: stephanepeyregne (at) gmail.com.'
 
