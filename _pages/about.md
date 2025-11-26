@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Institut Jacques Monod</a>. email: stephanepeyregne at gmail.com.
+subtitle: <a href='#'>Institut Jacques Monod</a>. email: "stephanepeyregne (at) gmail.com".
 
 profile:
   align: right
