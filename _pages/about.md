@@ -3,16 +3,15 @@ layout: about
 title: about
 permalink: /
 lab_title: "Welcome to the Peyrégne Lab!"
-subtitle: '<a href="#">Institut Jacques Monod</a>. email: stephanepeyregne (at) gmail.com.'
+subtitle: '<a href="#">Institut Jacques Monod</a>. 15 Rue Hélène Brion, 75013 Paris, France.'
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Institut Jacques Monod</p>
-    <p>office 255B, 15 Rue Hélène Brion</p>
-    <p>75013 Paris, France</p>
+    <strong>Contact us:</strong>
+    <p>stephanepeyregne (at) gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
