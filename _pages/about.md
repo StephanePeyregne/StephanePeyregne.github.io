@@ -39,4 +39,4 @@ Understanding human biology and health has advanced rapidly thanks to the wealth
 
 In particular, ancient genomes, including those of Neandertals and Denisovans, provide access to chapters of our evolution that were previously out of reach with present-day data alone. By integrating these ancient genomes with modern datasets, we aim to identify the genetic changes that shaped the modern human lineage and investigate their significance for human biology and health.
 
-For a more detailed description of our research program, [click here](/al-folio/projects/).
+For a more detailed description of our research program, [click here](/projects/).
