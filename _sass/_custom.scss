@@ -11,3 +11,9 @@
     width: 50% !important; /* was ~70% */
   }
 }
+
+/* Justify text on the About page only */
+.layout-about .clearfix {
+  text-align: justify;
+  text-justify: inter-word;
+}
