@@ -4,10 +4,10 @@
    and the main text column slightly narrower, on large screens */
 @media (min-width: 768px) {
   .post article .profile {
-    width: 40% !important; /* was ~30% */
+    width: 50% !important; /* was ~30% */
   }
 
   .post article > .clearfix {
-    width: 58% !important; /* was ~70% */
+    width: 50% !important; /* was ~70% */
   }
 }
