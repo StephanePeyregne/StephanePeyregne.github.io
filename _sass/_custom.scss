@@ -4,16 +4,17 @@
    and the main text column slightly narrower, on large screens */
 @media (min-width: 768px) {
   .post article .profile {
-    width: 50% !important; /* was ~30% */
+    width: 40% !important; /* was ~30% */
   }
 
   .post article > .clearfix {
-    width: 50% !important; /* was ~70% */
+    width: 60% !important; /* was ~70% */
   }
 }
 
 /* Justify text on the About page only */
-.layout-about .clearfix {
-  text-align: justify;
+.post article > .clearfix,
+.post article > .clearfix p {
+  text-align: justify !important;
   text-justify: inter-word;
 }
