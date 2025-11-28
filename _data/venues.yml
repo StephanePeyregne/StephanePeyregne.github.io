@@ -1,13 +1,6 @@
-"Selection":
-#  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"Pop. gen.":
-#  url: https://journals.aps.org/
-  color: "#00a676"
-  
-"Archaeology":
-  color: "#e4572e"
+"Method":
+  color: "#db7ddb"
 
 "Review":
-  color: "#2ec3e4"
+# url: https://journals.aps.org/
+  color: "#f7bef7"
