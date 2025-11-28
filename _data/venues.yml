@@ -1,6 +1,8 @@
 "Method":
   color: "#db7ddb"
+  text_color: "#ffffff"
 
 "Review":
 # url: https://journals.aps.org/
   color: "#f7bef7"
+  text_color: "#000000"
