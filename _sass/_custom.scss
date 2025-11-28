@@ -1,18 +1,18 @@
 /* Custom overrides for the About page layout */
 
-/* Make the profile block (image + contact info) wider,
-   and the main text column slightly narrower, on large screens */
+/* Adjust width ratioi on the about page only */
 @media (min-width: 768px) {
-  .post article .profile {
+  .post article .about-profile {
     width: 40% !important; /* was ~30% */
   }
 
-  .post article > .clearfix {
+  /* Only narrow the text when it sits next to the about-profile block */
+  .post article .about-profile + .clearfix {
     width: 60% !important; /* was ~70% */
   }
 }
 
-/* Justify text on the About page only */
+/* Justify text */
 .post article > .clearfix,
 .post article > .clearfix p {
   text-align: justify !important;
