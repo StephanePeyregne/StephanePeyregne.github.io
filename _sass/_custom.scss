@@ -18,3 +18,16 @@
   text-align: justify !important;
   text-justify: inter-word;
 }
+
+/* Colour-code some article labels */
+.pub-abbr:contains("Selection") {
+  background-color: #4c6fff;
+}
+
+.pub-abbr:contains("Pop. gen.") {
+  background-color: #00a676;
+}
+
+.pub-abbr:contains("Archaeology") {
+  background-color: #e4572e;
+}
