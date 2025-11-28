@@ -266,7 +266,7 @@
       {% endif %}
 
       {% assign entry_has_google_scholar_badge = false %}
-      {% if entry.google_scholar_id %}
+      {% if entry.scholar %}
         {% assign entry_has_google_scholar_badge = true %}
       {% endif %}
 
@@ -312,7 +312,7 @@
             ></span>
           {% endif %}
           {% if site.enable_publication_badges.google_scholar and entry_has_google_scholar_badge %}
-            <a
+{%- comment -%}            <a
               href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ site.data.socials.scholar_userid }}&citation_for_view={{ site.data.socials.scholar_userid }}:{{ entry.google_scholar_id }}"
               aria-label="Google Scholar link"
               role="button"
@@ -339,6 +339,16 @@
                 src="https://img.shields.io/badge/scholar-{{ citation_count }}-4285F4?logo=googlescholar&labelColor=beige"
                 alt="{{ citation_count }} Google Scholar citations"
               >
+            </a>
+{%- endcomment -%}
+            <a
+              class="badge badge-link"
+              href="{{ entry.scholar }}"
+              target="_blank"
+              title="Google Scholar"
+              aria-label="Google Scholar link"
+            >
+              <i class="ai ai-google-scholar"></i>
             </a>
           {% endif %}
           {% if site.enable_publication_badges.inspirehep and entry_has_inspirehep_badge %}
