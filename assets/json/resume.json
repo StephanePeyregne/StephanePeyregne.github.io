@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Stéphane Peyrégne",
-    "label": "Scientist",
+    "position": "CNRS researcher",
     "image": "",
     "email": "stephanepeyregne (at) gmail.com",
     "phone": "(912) 123-4567",
@@ -25,6 +25,7 @@
   "work": [
     {
       "name": "Institut Jacques Monod",
+      "location": "Paris, France",
       "position": "Researcher in Paleogenomics",
       "url": "https://example.com",
       "startDate": "2026-02-01",
