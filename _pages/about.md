@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 lab_title: "Welcome to the Peyrégne Lab!"
-subtitle: '<a href="#">Institut Jacques Monod</a>, 15 Rue Hélène Brion, 75013 Paris, France.'
+subtitle: '<a href="https://www.ijm.fr/?lang=en" target="_blank" rel="noopener">Institut Jacques Monod</a>, 15 Rue Hélène Brion, 75013 Paris, France.'
 
 profile:
   align: right
