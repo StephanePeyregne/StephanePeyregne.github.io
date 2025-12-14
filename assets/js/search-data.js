@@ -65,8 +65,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "dropdown-cv",
-              title: "cv",
+            },{id: "dropdown-stéphane-39-s-cv",
+              title: "Stéphane&#39;s CV",
               description: "",
               section: "Dropdown",
               handler: () => {
