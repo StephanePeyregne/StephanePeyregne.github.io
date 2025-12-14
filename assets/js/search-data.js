@@ -63,13 +63,6 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-",
-              title: "",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
                 window.location.href = "/teaching/";
               },
             },{id: "books-the-godfather",
