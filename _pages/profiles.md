@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab
+permalink: /team/
+title: team
+description: Members of the Peyrégne Lab
 nav: true
 nav_order: 7
 
