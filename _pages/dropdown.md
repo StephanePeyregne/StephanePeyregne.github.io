@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: Stéphane's CV
     permalink: /cv/
+  - title: divider
+  - title: teaching
+  - permalink: /teaching/
 ---
