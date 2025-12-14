@@ -12,5 +12,5 @@ children:
     permalink: /cv/
   - title: divider
   - title: teaching material
-  - permalink: /teaching/
+    permalink: /teaching/
 ---
