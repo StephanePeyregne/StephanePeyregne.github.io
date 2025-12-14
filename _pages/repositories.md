@@ -2,7 +2,12 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Our group develops software and computational tools in paleogenomics and population genetics.
+Below we list the GitHub profiles of contributors, together with links to repositories hosting our
+various resources. Most of our code is freely accessible and released as open-source software.
+Unless stated otherwise, our software is distributed under the
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) and is provided
+*as is*, without any warranty.
 nav: true
 nav_order: 4
 ---
