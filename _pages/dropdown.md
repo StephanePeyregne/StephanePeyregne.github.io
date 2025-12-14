@@ -11,6 +11,6 @@ children:
   - title: Stéphane's CV
     permalink: /cv/
   - title: divider
-  - title: teaching
+  - title: teaching material
   - permalink: /teaching/
 ---
