@@ -4,14 +4,15 @@ permalink: /repositories/
 title: repositories
 description: >
   Our group develops software and computational tools in paleogenomics and population genetics.
-  Below we list the GitHub profiles of contributors, together with links to repositories hosting our
-  various resources. Most of our code is freely accessible and released as open-source software.
-  Unless stated otherwise, our software is distributed under the
-  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank" rel="noopener">
-  GNU General Public License v3.0</a> and is provided <em>as is</em>, without any warranty.
 nav: true
 nav_order: 4
 ---
+
+Below we list the GitHub profiles of contributors, together with links to repositories hosting our
+various resources. Most of our code is freely accessible and released as open-source software.
+Unless stated otherwise, our software is distributed under the
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) and is provided
+*as is*, without any warranty.
 
 {% if site.data.repositories.github_users %}
 
