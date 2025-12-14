@@ -65,12 +65,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-cv",
+              title: "cv",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/cv/";
               },
             },{id: "books-the-godfather",
           title: 'The Godfather',
