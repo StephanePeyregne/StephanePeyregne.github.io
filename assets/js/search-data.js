@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Our group develops software and computational tools in paleogenomics and population genetics. Below we list the GitHub profiles of contributors, together with links to repositories hosting our various resources. Most of our code is freely accessible and released as open-source software. Unless stated otherwise, our software is distributed under the  GNU General Public License v3.0 and is provided as is, without any warranty.",
+          description: "Our group develops software and computational tools in paleogenomics and population genetics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
