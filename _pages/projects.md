@@ -4,8 +4,8 @@ title: research
 permalink: /projects/
 description: A growing collection of our projects.
 nav: true
-nav_order: 2
-display_categories: [ongoing grants, work, fun]
+nav_order: 3
+display_categories: [ongoing projects, past work]
 horizontal: false
 ---
 
