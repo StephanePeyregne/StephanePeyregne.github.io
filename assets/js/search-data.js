@@ -78,9 +78,9 @@ ninja.data = [{
             },},{id: "news-the-peyrégne-lab-will-officially-start-on-february-1st-2026",
           title: '✨ The Peyrégne Lab will officially start on February 1st 2026! ✨',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-the-evolutionary-rise-of-modern-disease-risk",
+          title: 'The Evolutionary Rise of Modern Disease Risk',
+          description: "Funded by the Fondation pour la Recherche Médicale",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
