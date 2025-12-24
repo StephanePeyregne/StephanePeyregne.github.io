@@ -7,7 +7,7 @@ subtitle: '<a href="https://www.ijm.fr/?lang=en" target="_blank" rel="noopener">
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Lab_image.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><b>CONTACT US:</b></p>
