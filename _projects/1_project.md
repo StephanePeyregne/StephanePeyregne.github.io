@@ -8,7 +8,7 @@ category: ongoing projects
 related_publications: true
 ---
 
-Complex diseases such as autoimmune, metabolic, and psychiatric disorders remain poorly understood. Although genome-wide association studies have identified many variants associated with increased or decreased risk of developping such diseases, the evolutionary processes that shaped disease risk remain largely unexplored. Notably, many risk alleles are shared across populations and persist at substantial frequencies, suggesting that present-day disease susceptibility may reflect long-standing evolutionary trade-offs rather than recent dysfunction.
+Although genome-wide association studies have identified many variants associated with increased or decreased risk of developing complex diseases such as autoimmune, metabolic, and psychiatric disorders, the evolutionary processes that shaped disease risk remain largely unexplored. Notably, many risk alleles are shared across populations and persist at substantial frequencies, suggesting that present-day disease susceptibility may reflect long-standing evolutionary trade-offs rather than recent dysfunction.
 
 In this project we investigate the evolutionary origins of disease-associated genetic variation by integrating ancient genomes with large-scale human genomic and medical data. By placing disease risk variants into a temporal framework spanning ancient hominins to present-day populations, we aim to distinguish long-standing components of disease risk from more recent contributions shaped by our demographic history.
 
