@@ -23,5 +23,3 @@ By adopting an evolutionary perspective, we seek to clarify why genetic risk per
     <b>Why do genetic risk factors for disease persist?</b>
 Human evolution has shaped the genetic variation that influences health and disease in present-day populations.
 </div>
-
-{% endraw %}
