@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-12-19'
+  last_updated: '2025-12-24'
 papers:
   nPundf8AAAAJ:0EnyYjriUFMC:
-    citations: 78
+    citations: 80
     title: 'KIN: a method to infer relatedness from low-coverage ancient DNA'
     year: '2023'
   nPundf8AAAAJ:3fE2CSJIrl8C:
@@ -10,7 +10,7 @@ papers:
     title: Resolving the source of branch length variation in the Y chromosome phylogeny
     year: '2025'
   nPundf8AAAAJ:5nxA0vEk-isC:
-    citations: 42
+    citations: 43
     title: More than a decade of genetic research on the Denisovans
     year: '2024'
   nPundf8AAAAJ:KlAtU1dfN6UC:
@@ -18,11 +18,11 @@ papers:
     title: An early East Asian lineage with unexpectedly low Denisovan ancestry
     year: '2025'
   nPundf8AAAAJ:LkGwnXOMwfcC:
-    citations: 54
+    citations: 55
     title: "Present\u2010Day DNA Contamination in Ancient DNA Datasets"
     year: '2020'
   nPundf8AAAAJ:MXK_kJrjxJIC:
-    citations: 26
+    citations: 27
     title: Earliest modern human genomes constrain timing of Neanderthal admixture
     year: '2025'
   nPundf8AAAAJ:UebtZRa9Y70C:
@@ -30,7 +30,7 @@ papers:
     title: The evolutionary history of human spindle genes includes back-and-forth gene flow with Neandertals
     year: '2022'
   nPundf8AAAAJ:W7OEmFMy1HYC:
-    citations: 58
+    citations: 59
     title: Recent Adaptive Acquisition by African Rainforest Hunter-Gatherers of the Late Pleistocene Sickle-Cell Mutation Suggests Past Differences in Malaria Exposure
     year: '2019'
   nPundf8AAAAJ:WF5omc3nYNoC:
@@ -38,7 +38,7 @@ papers:
     title: Multiple Genomic Events Altering Hominin SIGLEC Biology and Innate Immunity Predated the Common Ancestor of Humans and Archaic Hominins
     year: '2020'
   nPundf8AAAAJ:Y0pCki6q_DkC:
-    citations: 584
+    citations: 587
     title: The genome of the offspring of a Neanderthal mother and a Denisovan father
     year: '2018'
   nPundf8AAAAJ:YsMSGLbcyi4C:
@@ -62,18 +62,18 @@ papers:
     title: Pleistocene chronology and history of hominins and fauna at Denisova Cave
     year: '2025'
   nPundf8AAAAJ:roLk4NBRz8UC:
-    citations: 24
+    citations: 25
     title: A late Neanderthal tooth from northeastern Italy
     year: '2020'
   nPundf8AAAAJ:u-x6o8ySG0sC:
-    citations: 113
+    citations: 114
     title: Detecting ancient positive selection in humans using extended lineage sorting
     year: '2017'
   nPundf8AAAAJ:u5HHmVD_uO8C:
-    citations: 770
+    citations: 771
     title: A high-coverage Neandertal genome from Vindija Cave in Croatia
     year: '2017'
   nPundf8AAAAJ:ufrVoPGSRksC:
-    citations: 338
+    citations: 339
     title: A high-coverage Neandertal genome from Chagyrskaya Cave
     year: '2020'
