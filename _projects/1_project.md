@@ -8,7 +8,7 @@ category: ongoing projects
 related_publications: true
 ---
 
-<div class="justify-project-text">
+<div class="justify-project-text" markdown="1">
 
 Although genome-wide association studies have identified many variants associated with increased or decreased risk of developing complex diseases such as autoimmune, metabolic, and psychiatric disorders, the evolutionary processes that shaped disease risk remain largely unexplored. Notably, many risk alleles are shared across populations and persist at substantial frequencies, suggesting that present-day disease susceptibility may reflect long-standing evolutionary trade-offs rather than recent dysfunction.
 
