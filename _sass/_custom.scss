@@ -19,6 +19,12 @@
   text-justify: inter-word;
 }
 
+/* Justify text for one specific project */
+.justify-text {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /* Colour-code some article labels */
 .pub-abbr:contains("Selection") {
   background-color: #4c6fff;
