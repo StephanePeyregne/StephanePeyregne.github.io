@@ -34,6 +34,10 @@
   margin-bottom: 0 !important;
 }
 
+.justify-project-text {
+  margin-bottom: 2rem; /* space after the wrapped text */
+}
+
 /* Colour-code some article labels */
 .pub-abbr:contains("Selection") {
   background-color: #4c6fff;
