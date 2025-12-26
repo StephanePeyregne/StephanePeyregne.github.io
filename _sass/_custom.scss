@@ -26,6 +26,14 @@
   text-justify: inter-word;
 }
 
+.justify-project-text p {
+  margin-bottom: 1rem; /* restores spacing between paragraphs */
+}
+
+.justify-project-text p:last-child {
+  margin-bottom: 0;
+}
+
 /* Colour-code some article labels */
 .pub-abbr:contains("Selection") {
   background-color: #4c6fff;
