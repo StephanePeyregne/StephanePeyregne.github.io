@@ -27,11 +27,11 @@
 }
 
 .justify-project-text p {
-  margin-bottom: 1rem; /* restores spacing between paragraphs */
+  margin: 0 0 1rem 0 !important; /* restores spacing between paragraphs */
 }
 
 .justify-project-text p:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 /* Colour-code some article labels */
