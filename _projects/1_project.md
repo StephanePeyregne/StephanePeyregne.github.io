@@ -2,6 +2,7 @@
 layout: page
 title: The Evolutionary Rise of Modern Disease Risk
 description: Funded by the <i>Fondation pour la Recherche Médicale</i>
+class: justify-text
 img: assets/img/FRM25.jpg
 importance: 1
 category: ongoing projects
