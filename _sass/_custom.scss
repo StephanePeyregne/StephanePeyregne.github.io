@@ -20,7 +20,8 @@
 }
 
 /* Justify text for one specific project */
-.justify-text {
+.justify-project-text,
+.justify-project-text p {
   text-align: justify;
   text-justify: inter-word;
 }
