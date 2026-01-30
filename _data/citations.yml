@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-30'
 papers:
   nPundf8AAAAJ:0EnyYjriUFMC:
     citations: 84
@@ -22,7 +22,7 @@ papers:
     title: "Present\u2010Day DNA Contamination in Ancient DNA Datasets"
     year: '2020'
   nPundf8AAAAJ:MXK_kJrjxJIC:
-    citations: 31
+    citations: 32
     title: Earliest modern human genomes constrain timing of Neanderthal admixture
     year: '2025'
   nPundf8AAAAJ:UebtZRa9Y70C:
@@ -38,7 +38,7 @@ papers:
     title: Multiple Genomic Events Altering Hominin SIGLEC Biology and Innate Immunity Predated the Common Ancestor of Humans and Archaic Hominins
     year: '2020'
   nPundf8AAAAJ:Y0pCki6q_DkC:
-    citations: 594
+    citations: 596
     title: The genome of the offspring of a Neanderthal mother and a Denisovan father
     year: '2018'
   nPundf8AAAAJ:YsMSGLbcyi4C:
@@ -54,11 +54,11 @@ papers:
     title: A genetic analysis of the Gibraltar Neanderthals
     year: '2019'
   nPundf8AAAAJ:hqOjcs7Dif8C:
-    citations: 136
+    citations: 137
     title: Genetic insights into the social organization of Neanderthals
     year: '2022'
   nPundf8AAAAJ:kNdYIx-mwKoC:
-    citations: 5
+    citations: 7
     title: Pleistocene chronology and history of hominins and fauna at Denisova Cave
     year: '2025'
   nPundf8AAAAJ:roLk4NBRz8UC:
@@ -70,7 +70,7 @@ papers:
     title: Detecting ancient positive selection in humans using extended lineage sorting
     year: '2017'
   nPundf8AAAAJ:u5HHmVD_uO8C:
-    citations: 784
+    citations: 783
     title: A high-coverage Neandertal genome from Vindija Cave in Croatia
     year: '2017'
   nPundf8AAAAJ:ufrVoPGSRksC:
