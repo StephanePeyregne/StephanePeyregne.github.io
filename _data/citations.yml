@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-06'
 papers:
   nPundf8AAAAJ:0EnyYjriUFMC:
-    citations: 84
+    citations: 86
     title: 'KIN: a method to infer relatedness from low-coverage ancient DNA'
     year: '2023'
   nPundf8AAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: "Present\u2010Day DNA Contamination in Ancient DNA Datasets"
     year: '2020'
   nPundf8AAAAJ:MXK_kJrjxJIC:
-    citations: 32
+    citations: 33
     title: Earliest modern human genomes constrain timing of Neanderthal admixture
     year: '2025'
   nPundf8AAAAJ:UebtZRa9Y70C:
@@ -38,7 +38,7 @@ papers:
     title: Multiple Genomic Events Altering Hominin SIGLEC Biology and Innate Immunity Predated the Common Ancestor of Humans and Archaic Hominins
     year: '2020'
   nPundf8AAAAJ:Y0pCki6q_DkC:
-    citations: 596
+    citations: 598
     title: The genome of the offspring of a Neanderthal mother and a Denisovan father
     year: '2018'
   nPundf8AAAAJ:YsMSGLbcyi4C:
@@ -50,11 +50,11 @@ papers:
     title: 'AuthentiCT: a model of ancient DNA damage to estimate the proportion of present-day DNA contamination'
     year: '2020'
   nPundf8AAAAJ:eQOLeE2rZwMC:
-    citations: 54
+    citations: 53
     title: A genetic analysis of the Gibraltar Neanderthals
     year: '2019'
   nPundf8AAAAJ:hqOjcs7Dif8C:
-    citations: 137
+    citations: 147
     title: Genetic insights into the social organization of Neanderthals
     year: '2022'
   nPundf8AAAAJ:kNdYIx-mwKoC:
@@ -70,7 +70,7 @@ papers:
     title: Detecting ancient positive selection in humans using extended lineage sorting
     year: '2017'
   nPundf8AAAAJ:u5HHmVD_uO8C:
-    citations: 783
+    citations: 787
     title: A high-coverage Neandertal genome from Vindija Cave in Croatia
     year: '2017'
   nPundf8AAAAJ:ufrVoPGSRksC:
