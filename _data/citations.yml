@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-09'
 papers:
   nPundf8AAAAJ:0EnyYjriUFMC:
     citations: 86
@@ -10,7 +10,7 @@ papers:
     title: Resolving the source of branch length variation in the Y chromosome phylogeny
     year: '2025'
   nPundf8AAAAJ:5nxA0vEk-isC:
-    citations: 45
+    citations: 46
     title: More than a decade of genetic research on the Denisovans
     year: '2024'
   nPundf8AAAAJ:KlAtU1dfN6UC:
@@ -18,11 +18,11 @@ papers:
     title: An early East Asian lineage with unexpectedly low Denisovan ancestry
     year: '2025'
   nPundf8AAAAJ:LkGwnXOMwfcC:
-    citations: 56
+    citations: 55
     title: "Present\u2010Day DNA Contamination in Ancient DNA Datasets"
     year: '2020'
   nPundf8AAAAJ:MXK_kJrjxJIC:
-    citations: 33
+    citations: 34
     title: Earliest modern human genomes constrain timing of Neanderthal admixture
     year: '2025'
   nPundf8AAAAJ:UebtZRa9Y70C:
@@ -42,7 +42,7 @@ papers:
     title: The genome of the offspring of a Neanderthal mother and a Denisovan father
     year: '2018'
   nPundf8AAAAJ:YsMSGLbcyi4C:
-    citations: 83
+    citations: 84
     title: Nuclear DNA from two early Neandertals reveals 80,000 years of genetic continuity in Europe
     year: '2019'
   nPundf8AAAAJ:_FxGoFyzp5QC:
@@ -54,7 +54,7 @@ papers:
     title: A genetic analysis of the Gibraltar Neanderthals
     year: '2019'
   nPundf8AAAAJ:hqOjcs7Dif8C:
-    citations: 147
+    citations: 148
     title: Genetic insights into the social organization of Neanderthals
     year: '2022'
   nPundf8AAAAJ:kNdYIx-mwKoC:
@@ -70,10 +70,10 @@ papers:
     title: Detecting ancient positive selection in humans using extended lineage sorting
     year: '2017'
   nPundf8AAAAJ:u5HHmVD_uO8C:
-    citations: 787
+    citations: 786
     title: A high-coverage Neandertal genome from Vindija Cave in Croatia
     year: '2017'
   nPundf8AAAAJ:ufrVoPGSRksC:
-    citations: 342
+    citations: 344
     title: A high-coverage Neandertal genome from Chagyrskaya Cave
     year: '2020'
