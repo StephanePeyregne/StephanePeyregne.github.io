@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-03-27'
 papers:
   nPundf8AAAAJ:0EnyYjriUFMC:
-    citations: 96
+    citations: 98
     title: 'KIN: a method to infer relatedness from low-coverage ancient DNA'
     year: '2023'
   nPundf8AAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: "Present\u2010Day DNA Contamination in Ancient DNA Datasets"
     year: '2020'
   nPundf8AAAAJ:MXK_kJrjxJIC:
-    citations: 43
+    citations: 46
     title: Earliest modern human genomes constrain timing of Neanderthal admixture
     year: '2025'
   nPundf8AAAAJ:UebtZRa9Y70C:
@@ -34,19 +34,23 @@ papers:
     title: Recent Adaptive Acquisition by African Rainforest Hunter-Gatherers of the Late Pleistocene Sickle-Cell Mutation Suggests Past Differences in Malaria Exposure
     year: '2019'
   nPundf8AAAAJ:WF5omc3nYNoC:
-    citations: 20
+    citations: 21
     title: Multiple Genomic Events Altering Hominin SIGLEC Biology and Innate Immunity Predated the Common Ancestor of Humans and Archaic Hominins
     year: '2020'
   nPundf8AAAAJ:Y0pCki6q_DkC:
-    citations: 596
+    citations: 597
     title: The genome of the offspring of a Neanderthal mother and a Denisovan father
     year: '2018'
   nPundf8AAAAJ:YsMSGLbcyi4C:
-    citations: 86
+    citations: 87
     title: Nuclear DNA from two early Neandertals reveals 80,000 years of genetic continuity in Europe
     year: '2019'
+  nPundf8AAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: A high-coverage Neandertal genome from the Altai Mountains reveals population structure among Neandertals
+    year: '2026'
   nPundf8AAAAJ:_FxGoFyzp5QC:
-    citations: 78
+    citations: 81
     title: 'AuthentiCT: a model of ancient DNA damage to estimate the proportion of present-day DNA contamination'
     year: '2020'
   nPundf8AAAAJ:eQOLeE2rZwMC:
@@ -54,7 +58,7 @@ papers:
     title: A genetic analysis of the Gibraltar Neanderthals
     year: '2019'
   nPundf8AAAAJ:hqOjcs7Dif8C:
-    citations: 158
+    citations: 160
     title: Genetic insights into the social organization of Neanderthals
     year: '2022'
   nPundf8AAAAJ:kNdYIx-mwKoC:
@@ -70,10 +74,10 @@ papers:
     title: Detecting ancient positive selection in humans using extended lineage sorting
     year: '2017'
   nPundf8AAAAJ:u5HHmVD_uO8C:
-    citations: 795
+    citations: 797
     title: A high-coverage Neandertal genome from Vindija Cave in Croatia
     year: '2017'
   nPundf8AAAAJ:ufrVoPGSRksC:
-    citations: 352
+    citations: 355
     title: A high-coverage Neandertal genome from Chagyrskaya Cave
     year: '2020'
