@@ -27,3 +27,7 @@ Through this integrative framework, we aim to predict the biological and medical
     <b>What are the key genetic changes that define modern humans?</b>
 Some mutations that spread to all humans during human evolution likely form the genetic basis of important traits specific to our lineage.
 </div>
+
+## References
+
+{% bibliography --cited peyregne2017detecting peyregne2022evolutionary %}
