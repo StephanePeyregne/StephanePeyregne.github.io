@@ -83,9 +83,9 @@ ninja.data = [{
           description: "Funded by the Fondation pour la Recherche Médicale",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-genetic-adaptations-specific-to-the-modern-human-lineage",
+          title: 'Genetic Adaptations Specific to the Modern Human Lineage',
+          description: "Funded by the Centre National de la Recherche Scientifique",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
