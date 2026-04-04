@@ -28,4 +28,4 @@ Through this integrative framework, we aim to predict the biological and medical
 Some mutations that spread to all humans during human evolution likely form the genetic basis of important traits specific to our lineage.
 </div>
 
-{% bibliography --query @*[key=peyregne2017detecting OR key=peyregne2022evolutionary] %}
+{% bibliography --query @*[key==peyregne2017detecting or key==peyregne2022evolutionary] %}
