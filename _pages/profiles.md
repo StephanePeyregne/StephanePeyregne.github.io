@@ -24,7 +24,7 @@ profiles:
     more_info: >
       <p>Fabien Fauchereau</p>
       <p>Associate Professor</p>
-      <p>fabien.fauchereau@ijm.fr</p>
+      <p>fabien.fauchereau (at) ijm.fr</p>
   - align: right
     image: Lab_image.png
     content: about_einstein.md
