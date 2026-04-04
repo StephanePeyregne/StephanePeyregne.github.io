@@ -19,10 +19,19 @@ profiles:
       <p>stephanepeyregne (at) gmail.com</p>
   - align: left
     image: Lab_image.png
+    content: about_fabien.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Fabien Fauchereau</p>
+      <p>Associate Professor</p>
+      <p>fabien.fauchereau@ijm.fr</p>
+  - align: right
+    image: Lab_image.png
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
+
 ---
