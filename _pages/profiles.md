@@ -27,11 +27,11 @@ profiles:
       <p>fabien.fauchereau (at) ijm.fr</p>
   - align: right
     image: Lab_image.png
-    content: about_einstein.md
+    content: about_ines.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Inês Vilar Gomes</p>
+      <p>Bioinformatics Engineer</p>
+      <p>ines.vilar (at) ijm.fr</p>
 
 ---
