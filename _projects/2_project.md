@@ -10,7 +10,7 @@ related_publications: true
 
 <div class="justify-project-text" markdown="1">
 
-Modern humans differ from their closest extinct relatives, such as Neandertals and Denisovans, by a number of anatomical and behavioral traits. However, the genetic changes underlying these differences remain largely unknown. While comparative genomics has identified many variants unique to modern humans, distinguishing those with functional relevance from neutral changes remains a major challenge.
+Modern humans differ from their closest extinct relatives, such as Neandertals and Denisovans, by a number of anatomical and behavioral traits. However, the genetic changes underlying these differences remain largely unknown. While comparing archaic and modern human genomes has revealed many variants unique to modern humans, distinguishing those with functional relevance from neutral changes remains a major challenge.
 
 In this project, we identify the key genetic changes that distinguish modern humans from archaic humans and determine which of these contributed to the emergence of lineage-specific traits. By integrating modern and archaic genomes with signatures of selection, functional annotations, and machine learning approaches, we disentangle potentially adaptive mutations from neutral variation accumulated since the divergence of these groups around 600,000 years ago.
 
