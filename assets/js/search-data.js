@@ -70,15 +70,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-the-peyrégne-lab-will-officially-start-on-february-1st-2026",
           title: '✨ The Peyrégne Lab will officially start on February 1st 2026! ✨',
           description: "",
-          section: "News",},{id: "projects-the-evolutionary-rise-of-modern-disease-risk",
+          section: "News",},{id: "news-recipient-of-the-2025-georges-brahms-prize-cnrs-foundation",
+          title: 'Recipient of the 2025 Georges Brahms Prize (CNRS Foundation)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-the-evolutionary-rise-of-modern-disease-risk",
           title: 'The Evolutionary Rise of Modern Disease Risk',
           description: "Funded by the Fondation pour la Recherche Médicale",
           section: "Projects",handler: () => {
