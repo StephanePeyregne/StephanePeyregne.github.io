@@ -26,19 +26,19 @@
     {
       "name": "Institut Jacques Monod",
       "location": "Paris, France",
-      "position": "Researcher in Paleogenomics",
-      "url": "https://example.com",
+      "position": "CNRS Researcher",
+      "url": "https://www.ijm.fr/?lang=en",
       "startDate": "2026-02-01",
       "endDate": "",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Head of the Paleogenomics team",
+      "highlights": ["Paleogenomics"]
     }
   ],
   "education": [
     {
       "institution": "University of Leipzig, Leipzig, Germany",
       "location": "Leipzig, Germany",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.eva.mpg.de/genetics/index/",
       "area": "Evolutionary genetics",
       "studyType": "PhD",
       "startDate": "2014-05-01",
@@ -54,50 +54,6 @@
       "awarder": "CNRS Foundation, CNRS Biology",
       "url": "https://www.insb.cnrs.fr/fr/personne/stephane-peyregne",
       "summary": "Established in recognition of Georges Brahms’ legacy, this annual prize honors a researcher in the field of DNA biology and supports the development of their independent research career."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-thumbtack"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -168,7 +124,7 @@
   "interests": [
     {
       "name": "Evolutionary genetics",
-      "icon": "fa-solid fa-DNA",
+      "icon": "fa-solid fa-dna",
       "keywords": [
         "Natural selection",
         "Adaptation",
