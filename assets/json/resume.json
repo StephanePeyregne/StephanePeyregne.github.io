@@ -34,18 +34,6 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "University of Leipzig, Leipzig, Germany",
@@ -63,9 +51,9 @@
     {
       "title": "Prize",
       "date": "2026-01-07",
-      "awarder": "Fondation",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "awarder": "CNRS Foundation, CNRS Biology",
+      "url": "https://www.insb.cnrs.fr/fr/personne/stephane-peyregne",
+      "summary": "Established in recognition of Georges Brahms’ legacy, this annual prize honors a researcher in the field of DNA biology and supports the development of their independent research career."
     }
   ],
   "certificates": [
@@ -180,21 +168,58 @@
   "interests": [
     {
       "name": "Evolutionary genetics",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-DNA",
       "keywords": [
         "Natural selection",
-        "Admixture"
+        "Adaptation",
+        "Evolutionary trade-offs"
+      ]
+    },
+    {
+      "name": "Human evolution",
+      "icon": "fa-solid fa-user",
+      "keywords": [
+        "Archaic humans",
+        "Human origins",
+        "Population history"
+      ]
+    },
+    {
+      "name": "Ancient DNA",
+      "icon": "fa-solid fa-vial",
+      "keywords": [
+        "Paleogenomics",
+        "DNA damage",
+        "Contamination estimation"
+      ]
+    },
+    {
+      "name": "Population genomics",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Admixture",
+        "Gene flow",
+        "Genetic diversity"
+      ]
+    },
+    {
+      "name": "Method development",
+      "icon": "fa-solid fa-gears",
+      "keywords": [
+        "Statistical methods",
+        "Simulation",
+        "Computational biology"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Project 1",
-      "summary": "Description of the project",
-      "highlights": ["keyword 1", "keyword 2"],
+      "name": "The Evolutionary Rise of Modern Disease Risk",
+      "summary": "We investigate the evolutionary origins of genetic risk for complex diseases by integrating ancient genomes with modern genomic and medical data.",
+      "highlights": ["Evolutionary medicine", "Disease genetics"],
       "startDate": "2026-02-01",
       "endDate": "2029-02-1",
-      "url": "https://example.com"
+      "url": "https://stephanepeyregne.github.io/projects/1_project/"
     }
   ]
 }
