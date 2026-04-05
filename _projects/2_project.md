@@ -19,7 +19,7 @@ Through this integrative framework, we aim to predict the biological and medical
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Lab_image.jpg" title="Adaptation project illustration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
