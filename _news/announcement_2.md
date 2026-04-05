@@ -8,8 +8,6 @@ related_posts: false
 
 I am delighted to announce that I have been awarded the 2025 Georges Brahms Prize by the <a href="https://fondation-cnrs.org/">CNRS Foundation</a> and <a href="https://www.insb.cnrs.fr/fr">CNRS Biology</a>. Established in recognition of <a href="https://fondation-cnrs.org/en/biography-of-georges-brahms/">Georges Brahms</a>’ legacy, this annual prize honors a researcher in the field of DNA biology and supports the development of their independent research career.
 
----
-
 I am deeply grateful to the CNRS Foundation and CNRS Biology for this recognition, and to my colleagues and collaborators whose support and contributions have made my research possible.
 
 ---
