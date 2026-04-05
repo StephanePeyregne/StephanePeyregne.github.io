@@ -60,10 +60,7 @@
   contents:
     - year: 2026
       items:
-        - Prize
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - 2025 Georges Brahms Prize (CNRS Foundation)
 
 - title: Academic Interests
   type: nested_list
