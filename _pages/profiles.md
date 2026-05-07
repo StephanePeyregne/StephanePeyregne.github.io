@@ -26,12 +26,12 @@ profiles:
       <p>Associate Professor</p>
       <p>fabien.fauchereau (at) ijm.fr</p>
   - align: right
-    image: Lab_image.png
+    image: mgomes_portait.jpg
     content: about_ines.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Inês Vilar Gomes</p>
+      <p>Maria Inês Gomes</p>
       <p>Bioinformatics Engineer</p>
-      <p>ines.vilar (at) ijm.fr</p>
+      <p>mgomes (at) ijm.fr</p>
 
 ---
