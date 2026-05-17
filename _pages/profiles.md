@@ -33,5 +33,4 @@ profiles:
       <p>Maria Inês Gomes</p>
       <p>Bioinformatics Engineer</p>
       <p>mgomes (at) ijm.fr</p>
-
 ---
