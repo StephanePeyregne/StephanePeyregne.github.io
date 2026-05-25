@@ -18,6 +18,7 @@ profiles:
       <p>Principal Investigator</p>
       <p>stephanepeyregne (at) gmail.com</p>
   - align: left
+    id: fabien
     image: portrait_fabien.png
     content: about_fabien.md
     image_circular: false # crops the image to make it circular
