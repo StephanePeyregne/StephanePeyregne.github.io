@@ -78,6 +78,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-funding-awarded-for-our-project-on-the-evolutionary-origins-of-disease-risk",
+          title: 'Funding awarded for our project on the evolutionary origins of disease risk',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "projects-the-evolutionary-rise-of-modern-disease-risk",
           title: 'The Evolutionary Rise of Modern Disease Risk',
           description: "Funded by the Fondation pour la Recherche Médicale",
