@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Welcome [Inês](/team/#ines) to the lab! 🎉
+🎉 Welcome [Inês](/team/#ines) to the lab! 🖥️
