@@ -26,6 +26,7 @@ profiles:
       <p>Associate Professor</p>
       <p>fabien.fauchereau (at) ijm.fr</p>
   - align: right
+    id: ines
     image: mgomes_portrait.jpg
     content: about_ines.md
     image_circular: false # crops the image to make it circular
