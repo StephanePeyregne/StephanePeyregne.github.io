@@ -84,7 +84,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
             },},{id: "news-welcome-fabien-to-the-lab",
-          title: '🎉 Welcome Fabien to the lab! 🎉',
+          title: '🎉 Welcome Fabien to the lab! 🦠',
           description: "",
           section: "News",},{id: "news-welcome-inês-to-the-lab",
           title: '🎉 Welcome Inês to the lab! 🎉',
