@@ -83,7 +83,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "projects-the-evolutionary-rise-of-modern-disease-risk",
+            },},{id: "news-welcome-fabien-to-the-lab",
+          title: '🎉 Welcome Fabien to the lab! 🎉',
+          description: "",
+          section: "News",},{id: "projects-the-evolutionary-rise-of-modern-disease-risk",
           title: 'The Evolutionary Rise of Modern Disease Risk',
           description: "Funded by the Fondation pour la Recherche Médicale",
           section: "Projects",handler: () => {
