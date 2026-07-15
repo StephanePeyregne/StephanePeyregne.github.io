@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-15'
 papers:
   nPundf8AAAAJ:0EnyYjriUFMC:
-    citations: 119
+    citations: 124
     title: 'KIN: a method to infer relatedness from low-coverage ancient DNA'
     year: '2023'
   nPundf8AAAAJ:3fE2CSJIrl8C:
-    citations: 7
+    citations: 8
     title: Resolving the source of branch length variation in the Y chromosome phylogeny
     year: '2025'
   nPundf8AAAAJ:5nxA0vEk-isC:
-    citations: 61
+    citations: 62
     title: More than a decade of genetic research on the Denisovans
     year: '2024'
   nPundf8AAAAJ:KlAtU1dfN6UC:
@@ -18,47 +18,47 @@ papers:
     title: An early East Asian lineage with unexpectedly low Denisovan ancestry
     year: '2025'
   nPundf8AAAAJ:LkGwnXOMwfcC:
-    citations: 60
+    citations: 61
     title: "Present\u2010Day DNA Contamination in Ancient DNA Datasets"
     year: '2020'
   nPundf8AAAAJ:MXK_kJrjxJIC:
-    citations: 66
+    citations: 69
     title: Earliest modern human genomes constrain timing of Neanderthal admixture
     year: '2025'
   nPundf8AAAAJ:UebtZRa9Y70C:
-    citations: 31
+    citations: 30
     title: The evolutionary history of human spindle genes includes back-and-forth gene flow with Neandertals
     year: '2022'
   nPundf8AAAAJ:W7OEmFMy1HYC:
-    citations: 67
+    citations: 68
     title: Recent Adaptive Acquisition by African Rainforest Hunter-Gatherers of the Late Pleistocene Sickle-Cell Mutation Suggests Past Differences in Malaria Exposure
     year: '2019'
   nPundf8AAAAJ:WF5omc3nYNoC:
-    citations: 22
+    citations: 23
     title: Multiple Genomic Events Altering Hominin SIGLEC Biology and Innate Immunity Predated the Common Ancestor of Humans and Archaic Hominins
     year: '2020'
   nPundf8AAAAJ:Y0pCki6q_DkC:
-    citations: 620
+    citations: 622
     title: The genome of the offspring of a Neanderthal mother and a Denisovan father
     year: '2018'
   nPundf8AAAAJ:YsMSGLbcyi4C:
-    citations: 95
+    citations: 96
     title: Nuclear DNA from two early Neandertals reveals 80,000 years of genetic continuity in Europe
     year: '2019'
   nPundf8AAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 2
     title: A high-coverage Neandertal genome from the Altai Mountains reveals population structure among Neandertals
     year: '2026'
   nPundf8AAAAJ:_FxGoFyzp5QC:
-    citations: 86
+    citations: 89
     title: 'AuthentiCT: a model of ancient DNA damage to estimate the proportion of present-day DNA contamination'
     year: '2020'
   nPundf8AAAAJ:eQOLeE2rZwMC:
-    citations: 56
+    citations: 57
     title: A genetic analysis of the Gibraltar Neanderthals
     year: '2019'
   nPundf8AAAAJ:hqOjcs7Dif8C:
-    citations: 175
+    citations: 178
     title: Genetic insights into the social organization of Neanderthals
     year: '2022'
   nPundf8AAAAJ:kNdYIx-mwKoC:
@@ -74,10 +74,10 @@ papers:
     title: Detecting ancient positive selection in humans using extended lineage sorting
     year: '2017'
   nPundf8AAAAJ:u5HHmVD_uO8C:
-    citations: 834
+    citations: 843
     title: A high-coverage Neandertal genome from Vindija Cave in Croatia
     year: '2017'
   nPundf8AAAAJ:ufrVoPGSRksC:
-    citations: 383
+    citations: 387
     title: A high-coverage Neandertal genome from Chagyrskaya Cave
     year: '2020'
