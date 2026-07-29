@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-29'
 papers:
   nPundf8AAAAJ:0EnyYjriUFMC:
-    citations: 124
+    citations: 130
     title: 'KIN: a method to infer relatedness from low-coverage ancient DNA'
     year: '2023'
   nPundf8AAAAJ:3fE2CSJIrl8C:
@@ -18,19 +18,23 @@ papers:
     title: An early East Asian lineage with unexpectedly low Denisovan ancestry
     year: '2025'
   nPundf8AAAAJ:LkGwnXOMwfcC:
-    citations: 61
+    citations: 62
     title: "Present\u2010Day DNA Contamination in Ancient DNA Datasets"
     year: '2020'
   nPundf8AAAAJ:MXK_kJrjxJIC:
-    citations: 69
+    citations: 71
     title: Earliest modern human genomes constrain timing of Neanderthal admixture
     year: '2025'
+  nPundf8AAAAJ:ULOm3_A8WrAC:
+    citations: 1
+    title: Genetic diversity of late Neanderthals in northwestern Europe
+    year: '2026'
   nPundf8AAAAJ:UebtZRa9Y70C:
-    citations: 30
+    citations: 31
     title: The evolutionary history of human spindle genes includes back-and-forth gene flow with Neandertals
     year: '2022'
   nPundf8AAAAJ:W7OEmFMy1HYC:
-    citations: 68
+    citations: 69
     title: Recent Adaptive Acquisition by African Rainforest Hunter-Gatherers of the Late Pleistocene Sickle-Cell Mutation Suggests Past Differences in Malaria Exposure
     year: '2019'
   nPundf8AAAAJ:WF5omc3nYNoC:
@@ -38,7 +42,7 @@ papers:
     title: Multiple Genomic Events Altering Hominin SIGLEC Biology and Innate Immunity Predated the Common Ancestor of Humans and Archaic Hominins
     year: '2020'
   nPundf8AAAAJ:Y0pCki6q_DkC:
-    citations: 622
+    citations: 623
     title: The genome of the offspring of a Neanderthal mother and a Denisovan father
     year: '2018'
   nPundf8AAAAJ:YsMSGLbcyi4C:
@@ -70,14 +74,14 @@ papers:
     title: A late Neanderthal tooth from northeastern Italy
     year: '2020'
   nPundf8AAAAJ:u-x6o8ySG0sC:
-    citations: 117
+    citations: 116
     title: Detecting ancient positive selection in humans using extended lineage sorting
     year: '2017'
   nPundf8AAAAJ:u5HHmVD_uO8C:
-    citations: 843
+    citations: 845
     title: A high-coverage Neandertal genome from Vindija Cave in Croatia
     year: '2017'
   nPundf8AAAAJ:ufrVoPGSRksC:
-    citations: 387
+    citations: 389
     title: A high-coverage Neandertal genome from Chagyrskaya Cave
     year: '2020'
