@@ -35,4 +35,13 @@ profiles:
       <p>Maria Inês Gomes</p>
       <p>Bioinformatics Engineer</p>
       <p>mgomes (at) ijm.fr</p>
+  - align: left
+    id: euan
+    image: eyoung_portrait.JPG
+    content: about_euan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Euan Angus Young</p>
+      <p>Postdoctoral Researcher</p>
+      <p>euan.young (at) ijm.fr</p>
 ---
