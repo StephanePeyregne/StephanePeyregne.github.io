@@ -44,4 +44,13 @@ profiles:
       <p>Euan Angus Young</p>
       <p>Postdoctoral Researcher</p>
       <p>euan.young (at) ijm.fr</p>
+  - align: right
+    id: aleksei
+    image: aleksei_portrait.jpg
+    content: about_aleksei.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Aleksei Kuznetsov</p>
+      <p>Research Engineer</p>
+      <p>aleksei.kuznetsov (at) ijm.fr</p>
 ---
