@@ -1,0 +1,3 @@
+Aleksei is a research engineer with a background in physics, computational modelling, and scientific data analysis. He obtained his PhD in Physics from Université Bourgogne Franche-Comté, where his research focused on molecular spectroscopy. He also holds a Master’s degree in Physics of Photonics and Nanotechnology. He subsequently transitioned to bioinformatics, applying his experience in quantitative modelling and scientific programming to the study of human genomic variation.
+
+His current work focuses on developing machine-learning methods to estimate when genetic variants arose during human evolution. He uses simulated and empirical ancient and present-day human genomes to build and benchmark models for mutation-age inference.
