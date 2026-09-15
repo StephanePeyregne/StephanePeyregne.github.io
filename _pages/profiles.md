@@ -46,7 +46,7 @@ profiles:
       <p>euan.young (at) ijm.fr</p>
   - align: right
     id: aleksei
-    image: aleksei_portrait.jpg
+    image: aleksei_portrait.jpeg
     content: about_aleksei.md
     image_circular: false # crops the image to make it circular
     more_info: >
